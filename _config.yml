@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username: Hakuin123
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: minima
 plugins:
   - jekyll-feed
 
